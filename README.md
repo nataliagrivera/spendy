@@ -1,4 +1,6 @@
-![Screenshot 2024-02-15 at 09-38-28 Spendy](https://github.com/ThatFireBoi/spendy/assets/132520554/0ff738ad-cac6-4292-bee5-70b9f64adb50)
+
+![spendy](https://github.com/nataliagrivera/spendy/assets/132513851/9313e480-2bc0-4478-bb75-bebb1fae83e5)
+
 
 # Spendy
 
@@ -8,7 +10,11 @@ This project was born out of me and my partner’s background in finance. We are
 
 Regarding Spendy, we have so far implemented a database with Firebase, where the expenses and income for each user are saved, all behind log-in implementation using the user’s Google account. Currently, we are in the process of implementing the receipt scanner by way of a GPT and the API to provide a reward/achievement system. 
 
-Creating and implementing the GPT has been the most challenging, with the reward system in second place. An alternative we are looking at is Google’s OCR system, which can be implemented with Firebase instead of using the GPT, but this would cause us to loose the chatbot part of the implementation. But in the end, in regards to the MVP, we could go with the OCR as a temporary solution and later on work on implementing the OpenAI GPT. This project is also being built on React JS, which has brought it’s own challenges due to having elements of HTML without using actual HTML files, but instead implementing that functionality inside the javascript files themselves.
+Looking ahead, we're considering adding a receipt scanner to our project in the future. While creating and implementing a custom parser with OpenAI's GPT posed some significant challenges and limitations, prompting us to switch gears and work with Botpress for hosting our bot and leveraging OpenAI for assistance, we still see the potential in integrating the GPT down the line.
+
+Regarding the minimum viable product (MVP), we're leaning towards leaving it as it is for now, serving as a temporary solution. Later on, we can circle back and focus on implementing the OpenAI GPT.
+
+It's worth noting that this project is built on React JS, which brings its own set of challenges, particularly with elements of HTML being incorporated directly into JavaScript files instead of separate HTML files.
 
 # Developers
 
@@ -22,8 +28,12 @@ React JS, CSS, Firebase, Botpress, OpenAI
 
 # Mockups
 
-![image](https://github.com/ThatFireBoi/spendy/assets/132520554/de7548e0-707d-474f-8a65-c3d46de9089c)
-![image](https://github.com/ThatFireBoi/spendy/assets/132520554/d522eef6-e440-4eb9-8772-28b06009f3cc)
+![Spendy_expense tracker](https://github.com/nataliagrivera/spendy/assets/132513851/18882ce7-d7df-49d8-b437-acd188e6d189)
+
+![receipts and achievements](https://github.com/nataliagrivera/spendy/assets/132513851/a3d0d190-3940-452a-ab11-99f9bde6ea4a)
+
+![Chat bot examples](https://github.com/nataliagrivera/spendy/assets/132513851/378f2cc3-5be8-467a-9fe8-1138d1545b64)
+
 
 # Risks
 
@@ -38,7 +48,7 @@ Additionally, potential market changes affecting spending habits might impact th
 
 # Future Features
 
--Adding advising based on the spending
+-Receipt scanner
 
 -Spending alerts
 
