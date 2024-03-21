@@ -12,11 +12,13 @@ Creating and implementing the GPT has been the most challenging, with the reward
 
 # Developers
 
-Gabriel Castro- Full Stack engineer on Spendy, delving into learning how to leverage Firebase and React to create the spending analyzer. During my tenure at Holberton I've acquired knowledge in C, Python and JavaScript, among many other things. This has given me the foundation to be able to embark in attempting to develop this web app. Previous to Holberton, I studied Game Design, with a focus on C# developtment and environmental design by way of Blender, Unity and Unreal Engine. Going forward I hope to join a game development team or partake in web development. 
+Gabriel Castro- Full Stack engineer on Spendy, delving into learning how to leverage Firebase and React to create the spending analyzer. During my tenure at Holberton I've acquired knowledge in C, Python and JavaScript, among many other things. This has given me the foundation to be able to embark in attempting to develop this web app. Previous to Holberton, I studied Game Design, with a focus on C# development and environmental design by way of Blender, Unity and Unreal Engine. Going forward I hope to join a game development team or partake in web development. 
+
+Natalia Rivera- Full Stack engineer and Project Manager on Spendy. Leveraging my skills in Reactjs to make a user friendly expense tracker. Graduated from Holberton Coding School’s project-based program. Learning Javascript, Html, CSS and API integration I was equipped with the skill set for this and future endeavors in Saas and Automation. 
 
 # Technologies Used
 
-React JS, CSS, Firebase, OpenAI
+React JS, CSS, Firebase, Botpress, OpenAI
 
 # Mockups
 
@@ -48,7 +50,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -56,12 +58,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -71,7 +73,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -110,3 +112,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
